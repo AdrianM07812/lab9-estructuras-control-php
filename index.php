@@ -229,6 +229,6 @@ $total = $base + ($base * ITBMS);
 
   </main>
 
-  <footer id="firma">Lab 9 · <?php echo $nombreCompleto; ?> · Semilla N<?php echo SEMILLA ?> </footer>
+  <footer id="firma">Lab 9 · <?php echo $nombreCompleto; ?> · Semilla <?php echo SEMILLA; ?></footer>
 </body>
 </html>
